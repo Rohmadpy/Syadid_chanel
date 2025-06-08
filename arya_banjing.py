@@ -1,0 +1,1 @@
+print("cara mengubah dosa menjadi saldo dana")
